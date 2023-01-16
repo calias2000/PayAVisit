@@ -21,6 +21,8 @@
 
 `location.data` consiste nos dados de `geopoint` e `geohash` gerados pela biblioteca [geoflutterfire](https://pub.dev/packages/geoflutterfire#writing-geo-data).
 
+Presentations, deliverables and report: https://payavisit.wixsite.com/website/presentations
+
 ## Packages e Links: 
 
 - [Package geolocator](https://pub.dev/packages/geolocator)
