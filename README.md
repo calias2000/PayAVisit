@@ -1,5 +1,7 @@
 # PayAVisit 
 
+PRESENTATIONS, DELIVERABLES and FINAL REPORT: https://payavisit.wixsite.com/website/presentations
+
 ## Como executar o projeto?
 
 - Configurar um projeto no Firebase e alterar no projeto em `.firebaserc` ([documentação](https://firebase.flutter.dev/docs/overview))
@@ -20,8 +22,6 @@
 ```
 
 `location.data` consiste nos dados de `geopoint` e `geohash` gerados pela biblioteca [geoflutterfire](https://pub.dev/packages/geoflutterfire#writing-geo-data).
-
-Presentations, deliverables and report: https://payavisit.wixsite.com/website/presentations
 
 ## Packages e Links: 
 
